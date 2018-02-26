@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/waterfallScene.unity
+  isLoaded: 1
+  isActive: 1
